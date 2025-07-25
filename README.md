@@ -1,7 +1,7 @@
 # Uber Data Analysis
 The goal of this project is conduct an end-to-end data analysis on an Uber ride dataset in order to create actionable business insights.
 
-## Key Goals
+## Key Steps
 1. Ask Questions
 2. Understand Trip Features
 3. Parse, Clean, and Nomarlize Data
